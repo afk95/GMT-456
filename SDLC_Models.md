@@ -17,8 +17,8 @@ In this model, the outcome of one phase is the input for the next phase. Develop
 
 > **Disadvantages of Waterfall model:**
 
--Waterfall model is time-consuming & cannot be used in the short duration projects as in this model a new phase cannot be started until the ongoing phase is completed.
--Waterfall model cannot be used for the projects which have uncertain requirement or wherein the requirement keeps on changing as this model expects the requirement to be clear in the requirement gathering and analysis phase itself and any change in the later stages would lead to cost higher as the changes would be required in all the phases.
+- Waterfall model is time-consuming & cannot be used in the short duration projects as in this model a new phase cannot be started until the ongoing phase is completed.
+- Waterfall model cannot be used for the projects which have uncertain requirement or wherein the requirement keeps on changing as this model expects the requirement to be clear in the requirement gathering and analysis phase itself and any change in the later stages would lead to cost higher as the changes would be required in all the phases.
 
 ## Prototype Model
 The prototype model is a model in which the prototype is developed prior to the actual software.
@@ -33,10 +33,10 @@ Customer feedback and the refined requirement is used to modify the prototype an
 
 > Advantages of Prototype Model:
 
--Prototype model reduces the cost and time of development as the defects are found much earlier.
--Missing feature or functionality or a change in requirement can be identified in the evaluation phase and can be implemented in the refined prototype.
--Involvement of a customer from the initial stage reduces any confusion in the requirement or understanding of any functionality.
+- Prototype model reduces the cost and time of development as the defects are found much earlier.
+- Missing feature or functionality or a change in requirement can be identified in the evaluation phase and can be implemented in the refined prototype.
+- Involvement of a customer from the initial stage reduces any confusion in the requirement or understanding of any functionality.
 
 > Disadvantages of Prototype Model:
 
--Since the customer is involved in every phase, the customer can change the requirement of the end product which increases the complexity of the scope and may increase the delivery time of the product.
+- Since the customer is involved in every phase, the customer can change the requirement of the end product which increases the complexity of the scope and may increase the delivery time of the product.
