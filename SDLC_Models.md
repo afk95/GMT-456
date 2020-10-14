@@ -62,3 +62,6 @@ Customer feedback is taken for improvement and his suggestions and enhancement a
 - Lack of documentation.
 - Agile needs experienced and highly skilled resources.
 If a customer is not clear about how exactly they want the product to be, then the project would fail.
+
+
+[References](https://www.softwaretestinghelp.com/software-development-life-cycle-sdlc/)
