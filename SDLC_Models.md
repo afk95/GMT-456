@@ -8,3 +8,9 @@ In this model, the outcome of one phase is the input for the next phase. Develop
 * In the testing phase, the developed code is tested thoroughly to detect the defects in the software. Defects are logged into the defect tracking tool and are retested once fixed. *Bug logging, Retest, Regression testing goes on until the time the software is in go-live state.
 * In the Deployment phase, the developed code is moved into production after the sign off is given by the customer.
 * Any issues in the production environment are resolved by the developers which come under maintenance.
+
+
+> Advantages of the Waterfall Model:
+
+- Waterfall model is the simple model which can be easily understood and is the one in which all the phases are done step by step.
+- Deliverables of each phase are well defined, and this leads to no complexity and makes the project easily manageable.
