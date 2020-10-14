@@ -9,7 +9,7 @@ In this model, the outcome of one phase is the input for the next phase. Develop
 * In the Deployment phase, the developed code is moved into production after the sign off is given by the customer.
 * Any issues in the production environment are resolved by the developers which come under maintenance.
 
-[Image](https://github.com/afk95/GMT-456/blob/main/SDLC_Models_img/Waterfall-Model-1.jpg?raw=true)
+![Image][1](https://github.com/afk95/GMT-456/blob/main/SDLC_Models_img/Waterfall-Model-1.jpg?raw=true)
 
 > **Advantages of the Waterfall Model:**
 
@@ -32,7 +32,7 @@ Once the requirement gathering is done, the quick design is created and the prot
 
 Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
 
-[Image](https://github.com/afk95/GMT-456/blob/main/SDLC_Models_img/Prototype-Model.jpg?raw=true)
+![Image](https://github.com/afk95/GMT-456/blob/main/SDLC_Models_img/Prototype-Model.jpg?raw=true)
 
 > **Advantages of Prototype Model:**
 
@@ -54,7 +54,7 @@ In agile iterations are termed as sprints. Each sprint lasts for2-4 weeks. At th
 
 Customer feedback is taken for improvement and his suggestions and enhancement are worked on in the next sprint. Testing is done in each sprint to minimize the risk of any failures.
 
-[Image](https://github.com/afk95/GMT-456/blob/main/SDLC_Models_img/Agile-Model.jpg?raw=true)
+![Image](https://github.com/afk95/GMT-456/blob/main/SDLC_Models_img/Agile-Model.jpg?raw=true)
 
 > **Advantages of Agile Model:**
 
