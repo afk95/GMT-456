@@ -1,4 +1,4 @@
-# Three different SDLC methodologies
+# Three Different SDLC Methodologies with My Choice
 ## **Waterfall Model**
 Waterfall model is the very first model that is used in SDLC. It is also known as the linear sequential model.
 In this model, the outcome of one phase is the input for the next phase. Development of the next phase starts only when the previous phase is complete.
