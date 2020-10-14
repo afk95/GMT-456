@@ -9,7 +9,7 @@ In this model, the outcome of one phase is the input for the next phase. Develop
 * In the Deployment phase, the developed code is moved into production after the sign off is given by the customer.
 * Any issues in the production environment are resolved by the developers which come under maintenance.
 
-![Image][1](https://github.com/afk95/GMT-456/blob/main/SDLC_Models_img/Waterfall-Model-1.jpg?raw=true)
+![Image](https://github.com/afk95/GMT-456/blob/main/SDLC_Models_img/Waterfall-Model-1.jpg?raw=true)
 
 > **Advantages of the Waterfall Model:**
 
