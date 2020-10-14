@@ -1,5 +1,5 @@
 # Three different SDLC methodologies
-## ** Waterfall Model **
+## **Waterfall Model**
 Waterfall model is the very first model that is used in SDLC. It is also known as the linear sequential model.
 In this model, the outcome of one phase is the input for the next phase. Development of the next phase starts only when the previous phase is complete.
 * First, Requirement gathering and analysis is done. Once the requirement is freeze then only the System Design can start. Herein, the SRS document created is the output for the Requirement phase and it acts as an input for the System Design.
@@ -10,7 +10,7 @@ In this model, the outcome of one phase is the input for the next phase. Develop
 * Any issues in the production environment are resolved by the developers which come under maintenance.
 
 
-> ** Advantages of the Waterfall Model: **
+> **Advantages of the Waterfall Model:**
 
 - Waterfall model is the simple model which can be easily understood and is the one in which all the phases are done step by step.
 - Deliverables of each phase are well defined, and this leads to no complexity and makes the project easily manageable.
