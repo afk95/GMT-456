@@ -31,12 +31,34 @@ Once the requirement gathering is done, the quick design is created and the prot
 
 Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
 
-> Advantages of Prototype Model:
+> **Advantages of Prototype Model:**
 
 - Prototype model reduces the cost and time of development as the defects are found much earlier.
 - Missing feature or functionality or a change in requirement can be identified in the evaluation phase and can be implemented in the refined prototype.
 - Involvement of a customer from the initial stage reduces any confusion in the requirement or understanding of any functionality.
 
-> Disadvantages of Prototype Model:
+> **Disadvantages of Prototype Model:**
 
 - Since the customer is involved in every phase, the customer can change the requirement of the end product which increases the complexity of the scope and may increase the delivery time of the product.
+
+## Agile Model
+
+Agile Model is a combination of the Iterative and incremental model. This model focuses more on flexibility while developing a product rather than on the requirement.
+
+In Agile, a product is broken into small incremental builds. It is not developed as a complete product in one go. Each build increments in terms of features. The next build is built on previous functionality.
+
+In agile iterations are termed as sprints. Each sprint lasts for2-4 weeks. At the end of each sprint, the product owner verifies the product and after his approval, it is delivered to the customer.
+
+Customer feedback is taken for improvement and his suggestions and enhancement are worked on in the next sprint. Testing is done in each sprint to minimize the risk of any failures.
+
+> **Advantages of Agile Model:**
+
+- It allows more flexibility to adapt to the changes.
+- The new feature can be added easily.
+- Customer satisfaction as the feedback and suggestions are taken at every stage.
+
+> **Disadvantages:**
+
+- Lack of documentation.
+- Agile needs experienced and highly skilled resources.
+If a customer is not clear about how exactly they want the product to be, then the project would fail.
