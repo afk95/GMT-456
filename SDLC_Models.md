@@ -33,10 +33,10 @@ Customer feedback and the refined requirement is used to modify the prototype an
 
 > Advantages of Prototype Model:
 
-- Prototype model reduces the cost and time of development as the defects are found much earlier.
-- Missing feature or functionality or a change in requirement can be identified in the evaluation phase and can be implemented in the refined prototype.
-- Involvement of a customer from the initial stage reduces any confusion in the requirement or understanding of any functionality.
+-Prototype model reduces the cost and time of development as the defects are found much earlier.
+-Missing feature or functionality or a change in requirement can be identified in the evaluation phase and can be implemented in the refined prototype.
+-Involvement of a customer from the initial stage reduces any confusion in the requirement or understanding of any functionality.
 
 > Disadvantages of Prototype Model:
 
-- Since the customer is involved in every phase, the customer can change the requirement of the end product which increases the complexity of the scope and may increase the delivery time of the product.
+-Since the customer is involved in every phase, the customer can change the requirement of the end product which increases the complexity of the scope and may increase the delivery time of the product.
